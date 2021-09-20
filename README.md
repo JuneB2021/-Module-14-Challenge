@@ -26,7 +26,7 @@ Prediction improved by decreasing short window to 3 opposed to decreasing long w
 * **Baseline Performance: Decreasing SMA short window and Training window**
 Prediction optimized by adjusting both SMA (Short window = 3) and Training window (=2)
 
-![markdown_image](https://github.com/JuneB2021/-Module-14-Challenge/blob/main/Plot/Baseline%Performance_adjusted_both.png)
+![markdown_image](https://github.com/JuneB2021/-Module-14-Challenge/blob/main/Plot/Baseline%20Performance_adjusted_both.png)
 
 * **Random Forrest Classifier**
 Prediction improvment over baseline (SVC classifier model) with same parameter
