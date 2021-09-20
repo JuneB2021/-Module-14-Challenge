@@ -37,4 +37,4 @@ Prediction improvment over baseline (SVC classifier model) with same parameter
 
 ## Summary
 
-**Random Forrest Classifier** model overall outperform **SVC Classifier** model when using same parameters
+**Random Forrest Classifier** model overall is outperform **SVC Classifier** model when applying the same parameters
