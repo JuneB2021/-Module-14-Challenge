@@ -16,22 +16,22 @@ Using short (4) and long (100) window SMA with the SVC classifier model from SKL
 * **Baseline Performance: Decreasing Training window**
 Prediction improved by decreasing training window to 2 opposed to increasing training window to 4
 
-![markdown_image](https://github.com/JuneB2021/-Module-14-Challenge/blob/main/Plot/Baseline%20Performance.png)
+![markdown_image](https://github.com/JuneB2021/-Module-14-Challenge/blob/main/Plot/Baseline%20Performance_adjusted_training2Months.png)
 
 * **Baseline Performance: Decreasing SMA short window**
 Prediction improved by decreasing short window to 3 opposed to decreasing long window to 50
 
-![markdown_image](https://github.com/JuneB2021/-Module-14-Challenge/blob/main/Plot/Baseline%20Performance.png)
+![markdown_image](https://github.com/JuneB2021/-Module-14-Challenge/blob/main/Plot/Baseline%20Performance_adjusted_window3.png)
 
 * **Baseline Performance: Decreasing SMA short window and Training window**
 Prediction optimized by adjusting both SMA (Short window = 3) and Training window (=2)
 
-![markdown_image](https://github.com/JuneB2021/-Module-14-Challenge/blob/main/Plot/Baseline%20Performance.png)
+![markdown_image](https://github.com/JuneB2021/-Module-14-Challenge/blob/main/Plot/Baseline%Performance_adjusted_both.png)
 
 * **Random Forrest Classifier**
 Prediction improvment over baseline (SVC classifier model) with same parameter
 
-![markdown_image](https://github.com/JuneB2021/Module-2-Challenge/blob/main/markdown_image/Process.png)
+![markdown_image](https://github.com/JuneB2021/-Module-14-Challenge/blob/main/Plot/Baseline%20Performance_rf.png)
 
 -------
 
